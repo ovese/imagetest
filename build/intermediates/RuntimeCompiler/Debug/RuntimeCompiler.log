@@ -1,0 +1,32 @@
+﻿Build started 4/25/2021 6:38:03 PM.
+     1>Project "C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\RuntimeCompiler.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeCompiler\\Debug\RuntimeCompiler.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeCompiler\\Debug\RuntimeCompiler.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\EseBoost\boost1_76_0\boost /IC:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\EseBoost\boost_1_66_0\boost /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHa /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeCompiler\\Debug\\" /Fd"C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeCompiler\\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt RuntimeCompiledCPlusPlus\Aurora\RuntimeCompiler\Compiler_PlatformPosix.cpp
+         Compiler_PlatformPosix.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\EseBoost\boost1_76_0\boost /IC:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\EseBoost\boost_1_66_0\boost /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHa /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeCompiler\\Debug\\" /Fd"C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeCompiler\\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt RuntimeCompiledCPlusPlus\Aurora\RuntimeCompiler\FileChangeNotifier.cpp RuntimeCompiledCPlusPlus\Aurora\RuntimeCompiler\BuildTool.cpp RuntimeCompiledCPlusPlus\Aurora\RuntimeCompiler\Compiler_PlatformWindows.cpp RuntimeCompiledCPlusPlus\Aurora\RuntimeCompiler\SimpleFileWatcher\FileWatcher.cpp RuntimeCompiledCPlusPlus\Aurora\RuntimeCompiler\SimpleFileWatcher\FileWatcherWin32.cpp
+         FileChangeNotifier.cpp
+         BuildTool.cpp
+         Compiler_PlatformWindows.cpp
+         FileWatcher.cpp
+         FileWatcherWin32.cpp
+         Generating Code...
+       Lib:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\\Debug\RuntimeCompiler.lib" /NOLOGO C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeCompiler\\Debug\Compiler_PlatformPosix.obj
+         C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeCompiler\\Debug\FileChangeNotifier.obj
+         C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeCompiler\\Debug\BuildTool.obj
+         C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeCompiler\\Debug\Compiler_PlatformWindows.obj
+         C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeCompiler\\Debug\FileWatcher.obj
+         C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeCompiler\\Debug\FileWatcherWin32.obj
+         RuntimeCompiler.vcxproj -> C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\\Debug\RuntimeCompiler.lib
+       FinalizeBuildStatus:
+         Deleting file "C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeCompiler\\Debug\RuntimeCompiler.unsuccessfulbuild".
+         Touching "C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeCompiler\\Debug\RuntimeCompiler.lastbuildstate".
+     1>Done Building Project "C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\RuntimeCompiler.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:16.83

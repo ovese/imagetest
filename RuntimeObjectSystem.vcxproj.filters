@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\ObjectInterfacePerModuleSource.cpp" />
+    <ClCompile Include="RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\ObjectFactorySystem\ObjectFactorySystem.cpp">
+      <Filter>ObjectFactorySystem</Filter>
+    </ClCompile>
+    <ClCompile Include="RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\SimpleSerializer\SimpleSerializer.cpp">
+      <Filter>SimpleSerializer</Filter>
+    </ClCompile>
+    <ClCompile Include="RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\RuntimeObjectSystem.cpp" />
+    <ClCompile Include="RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\RuntimeObjectSystem_PlatformWindows.cpp" />
+    <ClCompile Include="RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\RuntimeObjectSystem_PlatformPosix.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\IObject.h" />
+    <ClInclude Include="RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\IObjectFactorySystem.h" />
+    <ClInclude Include="RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\ISimpleSerializer.h" />
+    <ClInclude Include="RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\ObjectInterface.h" />
+    <ClInclude Include="RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\ObjectInterfacePerModule.h" />
+    <ClInclude Include="RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\ObjectFactorySystem\ObjectFactorySystem.h">
+      <Filter>ObjectFactorySystem</Filter>
+    </ClInclude>
+    <ClInclude Include="RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\SimpleSerializer\SimpleSerializer.h">
+      <Filter>SimpleSerializer</Filter>
+    </ClInclude>
+    <ClInclude Include="RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\RuntimeInclude.h" />
+    <ClInclude Include="RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\IRuntimeObjectSystem.h" />
+    <ClInclude Include="RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\RuntimeObjectSystem.h" />
+    <ClInclude Include="RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\RuntimeLinkLibrary.h" />
+    <ClInclude Include="RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\RuntimeProtector.h" />
+    <ClInclude Include="RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\RuntimeSourceDependency.h" />
+    <ClInclude Include="RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\RuntimeTracking.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="SimpleSerializer">
+      <UniqueIdentifier>{d5986d12-394a-47fc-9758-17ebc5c6720c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ObjectFactorySystem">
+      <UniqueIdentifier>{59da87f4-0b75-46be-82e1-26feaffac32c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

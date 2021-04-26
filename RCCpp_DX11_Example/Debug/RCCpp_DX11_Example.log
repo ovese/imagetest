@@ -1,0 +1,17 @@
+﻿Build started 4/22/2021 9:47:08 AM.
+     1>Project "C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\RCCpp_DX11_Example\RCCpp_DX11_Example.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\RCCpp_DX11_Example\Debug\RCCpp_DX11_Example.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         RCCpp_DX11_Example.vcxproj -> C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\RCCpp_DX11_Example\Debug\RCCpp_DX11_Example.exe
+       FinalizeBuildStatus:
+         Deleting file "C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\RCCpp_DX11_Example\Debug\RCCpp_DX11_Example.unsuccessfulbuild".
+         Touching "C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\RCCpp_DX11_Example\Debug\RCCpp_DX11_Example.lastbuildstate".
+     1>Done Building Project "C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\RCCpp_DX11_Example\RCCpp_DX11_Example.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.35

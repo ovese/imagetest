@@ -1,0 +1,30 @@
+﻿Build started 4/22/2021 9:44:51 AM.
+     1>Project "C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\RuntimeObjectSystem.vcxproj" on node 4 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\RuntimeObjectSystem.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm- /EHa /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /FC /errorReport:prompt RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\ObjectFactorySystem\ObjectFactorySystem.cpp RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\ObjectInterfacePerModuleSource.cpp RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\RuntimeObjectSystem.cpp RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\RuntimeObjectSystem_PlatformWindows.cpp RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\SimpleSerializer\SimpleSerializer.cpp
+         ObjectFactorySystem.cpp
+         ObjectInterfacePerModuleSource.cpp
+         RuntimeObjectSystem.cpp
+         RuntimeObjectSystem_PlatformWindows.cpp
+         SimpleSerializer.cpp
+         Generating Code...
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm- /EHa /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /FC /errorReport:prompt RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\RuntimeObjectSystem_PlatformPosix.cpp
+         RuntimeObjectSystem_PlatformPosix.cpp
+       Lib:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\Debug\RuntimeObjectSystem.lib" /NOLOGO Debug\ObjectFactorySystem.obj
+         Debug\ObjectInterfacePerModuleSource.obj
+         Debug\RuntimeObjectSystem.obj
+         Debug\RuntimeObjectSystem_PlatformWindows.obj
+         Debug\SimpleSerializer.obj
+         Debug\RuntimeObjectSystem_PlatformPosix.obj
+         RuntimeObjectSystem.vcxproj -> C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\Debug\RuntimeObjectSystem.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\RuntimeObjectSystem.unsuccessfulbuild".
+         Touching "Debug\RuntimeObjectSystem.lastbuildstate".
+     1>Done Building Project "C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\RuntimeObjectSystem.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:15.60

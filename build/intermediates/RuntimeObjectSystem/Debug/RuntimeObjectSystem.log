@@ -1,0 +1,32 @@
+﻿Build started 4/25/2021 6:38:04 PM.
+     1>Project "C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\RuntimeObjectSystem.vcxproj" on node 3 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeObjectSystem\\Debug\RuntimeObjectSystem.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeObjectSystem\\Debug\RuntimeObjectSystem.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\EseBoost\boost1_76_0\boost /IC:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\EseBoost\boost_1_66_0\boost /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm- /EHa /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeObjectSystem\\Debug\\" /Fd"C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeObjectSystem\\Debug\vc100.pdb" /Gd /TP /analyze- /FC /errorReport:prompt RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\ObjectFactorySystem\ObjectFactorySystem.cpp RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\ObjectInterfacePerModuleSource.cpp RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\RuntimeObjectSystem.cpp RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\RuntimeObjectSystem_PlatformWindows.cpp RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\SimpleSerializer\SimpleSerializer.cpp
+         ObjectFactorySystem.cpp
+         ObjectInterfacePerModuleSource.cpp
+         RuntimeObjectSystem.cpp
+         RuntimeObjectSystem_PlatformWindows.cpp
+         SimpleSerializer.cpp
+         Generating Code...
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\EseBoost\boost1_76_0\boost /IC:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\EseBoost\boost_1_66_0\boost /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm- /EHa /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeObjectSystem\\Debug\\" /Fd"C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeObjectSystem\\Debug\vc100.pdb" /Gd /TP /analyze- /FC /errorReport:prompt RuntimeCompiledCPlusPlus\Aurora\RuntimeObjectSystem\RuntimeObjectSystem_PlatformPosix.cpp
+         RuntimeObjectSystem_PlatformPosix.cpp
+       Lib:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\\Debug\RuntimeObjectSystem.lib" /NOLOGO C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeObjectSystem\\Debug\ObjectFactorySystem.obj
+         C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeObjectSystem\\Debug\ObjectInterfacePerModuleSource.obj
+         C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeObjectSystem\\Debug\RuntimeObjectSystem.obj
+         C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeObjectSystem\\Debug\RuntimeObjectSystem_PlatformWindows.obj
+         C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeObjectSystem\\Debug\SimpleSerializer.obj
+         C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeObjectSystem\\Debug\RuntimeObjectSystem_PlatformPosix.obj
+         RuntimeObjectSystem.vcxproj -> C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\\Debug\RuntimeObjectSystem.lib
+       FinalizeBuildStatus:
+         Deleting file "C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeObjectSystem\\Debug\RuntimeObjectSystem.unsuccessfulbuild".
+         Touching "C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\build\intermediates\RuntimeObjectSystem\\Debug\RuntimeObjectSystem.lastbuildstate".
+     1>Done Building Project "C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\RuntimeObjectSystem.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:18.89

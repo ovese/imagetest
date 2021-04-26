@@ -1,0 +1,18 @@
+﻿Build started 4/22/2021 9:47:08 AM.
+     1>Project "C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\RuntimeCompiler.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\RuntimeCompiler.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Lib:
+         All outputs are up-to-date.
+         RuntimeCompiler.vcxproj -> C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\Debug\RuntimeCompiler.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\RuntimeCompiler.unsuccessfulbuild".
+         Touching "Debug\RuntimeCompiler.lastbuildstate".
+     1>Done Building Project "C:\Users\Knowdyn\Desktop\Copied\Ese\Tekkaboki\ikore_cirad\WorkEngine\RCCpp_DX11_Example\RuntimeCompiler.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.48
